@@ -20,3 +20,8 @@ Direct 3-bit octal to binary mapping.
   Converts signed integers into 32-bit two's complement representation.
 
 The program reads test cases from `A2_tests.txt`, executes them, and writes results to `output.txt`.
+
+## Build Instructions
+To compile the program fo mac:
+enter: clang main.c convert.c -o assignment1_new
+then enter ./assignment1_new
