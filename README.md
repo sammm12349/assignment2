@@ -24,4 +24,6 @@ The program reads test cases from `A2_tests.txt`, executes them, and writes resu
 ## Build Instructions
 To compile the program fo mac:
 enter: clang main.c convert.c -o assignment1_new
-then enter ./assignment1_new
+
+then enter 
+./assignment1_new
